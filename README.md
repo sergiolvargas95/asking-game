@@ -6,7 +6,7 @@ to start the project it is necessary to have a web server. Among the most used i
 1. Download and install XAMPP
 2. Start the Apache and MySQL module.
 3. Go to the disk where XAMPP was installed, then access the htdocs folder and save the project files.
-4. Access http://localhost/home.php in a browser.
+4. Access http://localhost/inicio.php in a browser.
 
 ## PREVIEW
 1. Start of the game
