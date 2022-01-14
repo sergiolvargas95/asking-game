@@ -18,6 +18,4 @@ to start the project it is necessary to have a web server. Among the most used i
 2. point section
 ![score](https://i.ibb.co/0n0C24v/POINTS.png)
 
-## DEMO
-You can see the project deployed in the following link 
-[Game](https://askinggame.000webhostapp.com/RETO_SOFKA/inicio.php)
+
