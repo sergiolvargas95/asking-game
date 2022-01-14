@@ -1,0 +1,279 @@
+[
+    [
+        {
+            "category": "nivel 1",
+            "question": "¿En qué año el hombre pisó la Luna por primera vez?",
+            "answer": "1969",
+            "choice_1": "1999",
+            "choice_2": "1835",
+            "choice_3": "1987",
+            "choice_4": "1969",
+            "image":"https://i.ibb.co/gFq6Hph/Luna.jpg",
+            "object_fit": "cover"
+        },
+        {
+            "category": "nivel 1",
+            "question": "¿Cuál es el monte más alto del mundo?",
+            "answer": "Everest",
+            "choice_1": "Makalu",
+            "choice_2": "Popa",
+            "choice_3": "Kanchenjunga",
+            "choice_4": "Everest",
+            "image":"https://i.ibb.co/fFmkqfr/everest.jpg",
+            "object_fit": "cover"
+        },
+        {
+            "category": "nivel 1",
+            "question": "¿Cuantos lados tiene un hexágono?",
+            "answer": "6",
+            "choice_1": "6",
+            "choice_2": "7",
+            "choice_3": "9",
+            "choice_4": "10",
+            "image":"https://i.ibb.co/jZf2NjJ/conjunto-formas-geometria-matematica-1639-6401.jpg",
+            "object_fit": "cover"
+        },{
+            "category": "nivel 1",
+            "question": "¿Cuántas patas tiene una araña?",
+            "answer": "8",
+            "choice_1": "9",
+            "choice_2": "8",
+            "choice_3": "7",
+            "choice_4": "12",
+            "image":"https://i.ibb.co/chpbVbs/arana.jpg",
+            "object_fit": "cover"
+        },{
+            "category": "nivel 1",
+            "question": "¿Cuál es el primer libro de la Biblia?",
+            "answer": "Génesis",
+            "choice_1": "éxodo",
+            "choice_2": "Salmos",
+            "choice_3": "proverbios",
+            "choice_4": "Génesis",
+            "image":"https://i.ibb.co/X2DXtFc/D-NQ-NP-723368-MCO44616243448-012021-O.jpg" ,
+            "object_fit": "cover"
+        }
+    ],
+    [
+        {
+            "category": "nivel 2",
+            "question": "¿Cuál es el océano más grande?",
+            "answer": "pacífico ",
+            "choice_1": "caribe ",
+            "choice_2": "antártico",
+            "choice_3": "pacífico",
+            "choice_4": "Índico ",
+            "image":"https://i.ibb.co/jvJMkry/descubre-que-es-el-oceano-mundial-655x368.jpg",
+            "object_fit": "cover"
+        },
+        {
+            "category": "nivel 2",
+            "question": "¿Cuál es el primer número primo?",
+            "answer": "2",
+            "choice_1": "2",
+            "choice_2": "3",
+            "choice_3": "4",
+            "choice_4": "6",
+            "image":"https://i.ibb.co/wLpS3kx/numeros-1.jpg",
+            "object_fit": "cover"
+        },
+        {
+            "category": "nivel 2",
+            "question": "¿A quién le crecía la nariz cuando mentía?",
+            "answer": "pinocho",
+            "choice_1": "cenicienta ",
+            "choice_2": "rodolf",
+            "choice_3": "pinocho",
+            "choice_4": "sherk",
+            "image":"https://i.ibb.co/8m64v3n/Geppetto.png",
+            "object_fit": "cover"
+        },{
+            "category": "nivel 2",
+            "question": "¿Cuántas notas musicales existen?",
+            "answer": "12",
+            "choice_1": "7",
+            "choice_2": "16",
+            "choice_3": "8",
+            "choice_4": "12",
+            "image":"https://i.ibb.co/QfKb8wr/notas-musicales-1024x576.jpg",
+            "object_fit": "cover"
+        },{
+            "category": "nivel 2",
+            "question": "¿Quién traicionó a Jesús?",
+            "answer": "Judas",
+            "choice_1": "Tomas",
+            "choice_2": "Juan",
+            "choice_3": "Judas",
+            "choice_4": "Simón",
+            "image":"https://i.ibb.co/vBTKwRL/original.jpg" ,
+            "object_fit": "cover"
+        }
+    ],
+    [
+        {
+            "category": "nivel 3",
+            "question": "¿Cómo se llama el fundador de Facebook?",
+            "answer": "Zuckerberg",
+            "choice_1": "Bolívar",
+            "choice_2": "Zuckerberg",
+            "choice_3": "Colon",
+            "choice_4": "Timothy",
+            "image":"https://i.ibb.co/8YntjCD/historia-de-facebook-1280x720.jpg",
+            "object_fit": "cover"
+        },
+        {
+            "category": "nivel 3",
+            "question": "¿Cuantos continentes hay?",
+            "answer": "5",
+            "choice_1": "6",
+            "choice_2": "8",
+            "choice_3": "2",
+            "choice_4": "5",
+            "image":"https://i.ibb.co/tmCz9Tx/Mapamundi.jpg",
+            "object_fit": "cover"
+        },
+        {
+            "category": "nivel 3",
+            "question": "¿De qué lengua proviene el español?",
+            "answer": "latín",
+            "choice_1": "hebreo",
+            "choice_2": "inglesa",
+            "choice_3": "latín",
+            "choice_4": "griego",
+            "image":"https://i.ibb.co/1QZk7yH/347.jpg",
+            "object_fit": "cover"
+        },{
+            "category": "nivel 3",
+            "question": "¿Cuál es la capital de Francia?",
+            "answer": "París",
+            "choice_1": "Portugal",
+            "choice_2": "Brazil",
+            "choice_3": "París",
+            "choice_4": "Luxemburgo",
+            "image":"https://i.ibb.co/Fsb1KR9/cf9f085d-916c-4be2-90fd-b4695085883f-alta-libre-aspect-ratio-default-0.jpg",
+            "object_fit": "cover"
+        },{
+            "category": "nivel 3",
+            "question": "¿Cómo se llama la madre de Simba en la película de Disney “El Rey León”?",
+            "answer": "Sarabi",
+            "choice_1": "Dorothy",
+            "choice_2": "Ashanti",
+            "choice_3": "Alika",
+            "choice_4": "Sarabi",
+            "image":"https://i.ibb.co/87Mm8wp/el-rey-leon.jpg",
+            "object_fit": "cover"
+        }
+    ],
+    [
+        {
+            "category": "nivel 4",
+            "question": "¿Cuál es el río más largo del mundo?",
+            "answer": "amazonas",
+            "choice_1": "Nilo",
+            "choice_2": "Danubio",
+            "choice_3": "amazonas",
+            "choice_4": "zinc",
+            "image":"https://i.ibb.co/XbcKVMY/Sab-as-que-existe-un-r-o-que-fluye-debajo-del-R-o-Amazonas-1280x720.png",
+            "object_fit": "cover"
+        },
+        {
+            "category": "nivel 4",
+            "question": "¿Cuál es el país más poblado de la tierra?",
+            "answer": "China",
+            "choice_1": "Colombia",
+            "choice_2": "USA",
+            "choice_3": "Suiza",
+            "choice_4": "China",
+            "image":"https://i.ibb.co/cYJLqqt/countries-1295969-960-720.png",
+            "object_fit": "cover"
+        },
+        {
+            "category": "nivel 4",
+            "question": "¿Cuál es el libro sagrado de los musulmanes??",
+            "answer": "Corán",
+            "choice_1": "Biblia",
+            "choice_2": "Torá",
+            "choice_3": "Corán",
+            "choice_4": "Talud",
+            "image":"https://i.ibb.co/dmCBQXB/5fa43ad878a3b.jpg",
+            "object_fit": "cover"
+        },{
+            "category": "nivel 4",
+            "question": "¿En qué país se usó la primera Bomba atómica?",
+            "answer": "Japón",
+            "choice_1": "EE.UU",
+            "choice_2": "Japón",
+            "choice_3": "Rusia",
+            "choice_4": "China",
+            "image":"https://i.ibb.co/QFY0c5n/ivy-mike-1952-0.jpg",
+            "object_fit": "cover"
+        },{
+            "category": "nivel 4",
+            "question": "¿ A qué se denomina séptimo arte?",
+            "answer": "cine",
+            "choice_1": "música",
+            "choice_2": "cine",
+            "choice_3": "arte",
+            "choice_4": "escultura",
+            "image":"https://i.ibb.co/3rQFg0n/cultura.jpg" ,
+            "object_fit": "cover"
+        }
+    ],
+    [
+        {
+            "category": "nivel 5",
+            "question": "¿Cuál es el primer elemento de la tabla periódica?",
+            "answer": "hidrógeno",
+            "choice_1": "hierro",
+            "choice_2": "helio",
+            "choice_3": "hidrógeno",
+            "choice_4": "cloro",
+            "image":"https://i.ibb.co/GkkN6CF/quimica.jpg",
+            "object_fit": "cover"
+        },
+        {
+            "category": "nivel 5",
+            "question": "¿En qué parte del cuerpo se produce la insulina?",
+            "answer": "páncreas",
+            "choice_1": "hígado",
+            "choice_2": "Vesícula",
+            "choice_3": "intestino",
+            "choice_4": "páncreas",
+            "image":"https://i.ibb.co/jZ0dHJD/insulina-diabetes.jpg",
+            "object_fit": "cover"
+        },
+        {
+            "category": "nivel 5",
+            "question": "¿En qué año llegó Cristóbal Colon a América?",
+            "answer": "1492",
+            "choice_1": "1492",
+            "choice_2": "1593",
+            "choice_3": "1456",
+            "choice_4": "1569",
+            "image":"https://i.ibb.co/znvk6Pt/f-elconfidencial-com-original-d5d-02f-1cd-d5d02f1cd16350f6b495969d932fefa9.jpg",
+            "object_fit": "cover"
+        },{
+            "category": "nivel 5",
+            "question": "¿Quién escribió la Odisea?",
+            "answer": "Homero",
+            "choice_1": "Camus",
+            "choice_2": "Homero",
+            "choice_3": "platón",
+            "choice_4": "Sócrates",
+            "image":"https://i.ibb.co/Ct6sxPV/resumen-odisea.png",
+            "object_fit": "cover"
+        },{
+            "category": "nivel 5",
+            "question": "¿Cuál es el elemento químico más abundante de la corteza terrestre?",
+            "answer": "oxígeno",
+            "choice_1": "Nitrógeno",
+            "choice_2": "carbono",
+            "choice_3": "oxígeno",
+            "choice_4": "helio",
+            "image":"https://i.ibb.co/s1LGvy7/Disen-o-sin-ti-tulo-2021-10-27-T155535-262.jpg" ,
+            "object_fit": "cover"
+        }
+    ]
+
+]
+
